@@ -43,16 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="bear.cs" />
-    <Compile Include="animal.cs" />
-    <Compile Include="otter.cs" />
-    <Compile Include="lion.cs" />
-    <Compile Include="fox.cs" />
-    <Compile Include="zebra.cs" />
-    <Compile Include="sloth.cs" />
-    <Compile Include="camel.cs" />
-    <Compile Include="emu.cs" />
-    <Compile Include="beaver.cs" />
+    <Compile Include="Bear.cs" />
+    <Compile Include="Animal.cs" />
+    <Compile Include="Otter.cs" />
+    <Compile Include="Lion.cs" />
+    <Compile Include="Fox.cs" />
+    <Compile Include="Zebra.cs" />
+    <Compile Include="Sloth.cs" />
+    <Compile Include="Camel.cs" />
+    <Compile Include="Emu.cs" />
+    <Compile Include="Beaver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

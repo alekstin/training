@@ -10,7 +10,6 @@ namespace ConsoleApp13
     {
         public Bear(string name) : base(name, "bear")
         {
-            Species = "bear";
         }
     }
 }

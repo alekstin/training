@@ -10,7 +10,6 @@ namespace ConsoleApp13
     {
         public Emu(string name) : base(name, "emu")
         {
-            Species = "emu";
         }
     }
 }
